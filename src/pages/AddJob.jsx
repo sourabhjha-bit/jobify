@@ -3,7 +3,7 @@
 const AddJob = () => {
   return (
     <div>
-      
+      add jobs
     </div>
   )
 }
